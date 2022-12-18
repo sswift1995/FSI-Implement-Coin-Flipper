@@ -11,7 +11,7 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: rgba(253, 248, 248, 0);
     margin: 20px;
     padding: 25px;
 }
@@ -28,7 +28,7 @@ h1 {
 }
 
 .message-container {
-    color: darkorange;
+    color: rgb(0, 157, 255);
     font-size: 1.5em;
     font-weight: bold;
 }
